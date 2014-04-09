@@ -7,5 +7,6 @@ for(i=0;i<n;i++)
 {scanf("%d",&a);
 if(a%k==0)
 j++; }
+printf("\n %d",j);
 return 0;
 }
